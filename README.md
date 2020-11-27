@@ -203,3 +203,4 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+}
